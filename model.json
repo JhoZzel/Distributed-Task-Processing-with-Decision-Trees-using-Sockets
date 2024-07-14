@@ -1,0 +1,138 @@
+[
+    {
+        "id": 0.0,
+        "id_left": 1.0,
+        "id_right": 2.0,
+        "feature": "petal_length",
+        "threshold": 2.45,
+        "specie": "unknown"
+    },
+    {
+        "id": 1.0,
+        "id_left": "-1",
+        "id_right": "-1",
+        "feature": "unknown",
+        "threshold": 0.0,
+        "specie": "setosa"
+    },
+    {
+        "id": 2.0,
+        "id_left": 3.0,
+        "id_right": 4.0,
+        "feature": "petal_width",
+        "threshold": 1.75,
+        "specie": "unknown"
+    },
+    {
+        "id": 3.0,
+        "id_left": 5.0,
+        "id_right": 6.0,
+        "feature": "petal_length",
+        "threshold": 4.95,
+        "specie": "unknown"
+    },
+    {
+        "id": 4.0,
+        "id_left": 7.0,
+        "id_right": 8.0,
+        "feature": "petal_length",
+        "threshold": 4.85,
+        "specie": "unknown"
+    },
+    {
+        "id": 5.0,
+        "id_left": 9.0,
+        "id_right": 10.0,
+        "feature": "petal_width",
+        "threshold": 1.65,
+        "specie": "unknown"
+    },
+    {
+        "id": 6.0,
+        "id_left": 11.0,
+        "id_right": 12.0,
+        "feature": "petal_width",
+        "threshold": 1.55,
+        "specie": "unknown"
+    },
+    {
+        "id": 7.0,
+        "id_left": 13.0,
+        "id_right": 14.0,
+        "feature": "sepal_length",
+        "threshold": 5.95,
+        "specie": "unknown"
+    },
+    {
+        "id": 8.0,
+        "id_left": "-1",
+        "id_right": "-1",
+        "feature": "unknown",
+        "threshold": 0.0,
+        "specie": "virginica"
+    },
+    {
+        "id": 9.0,
+        "id_left": "-1",
+        "id_right": "-1",
+        "feature": "unknown",
+        "threshold": 0.0,
+        "specie": "versicolor"
+    },
+    {
+        "id": 10.0,
+        "id_left": "-1",
+        "id_right": "-1",
+        "feature": "unknown",
+        "threshold": 0.0,
+        "specie": "virginica"
+    },
+    {
+        "id": 11.0,
+        "id_left": "-1",
+        "id_right": "-1",
+        "feature": "unknown",
+        "threshold": 0.0,
+        "specie": "virginica"
+    },
+    {
+        "id": 12.0,
+        "id_left": 15.0,
+        "id_right": 16.0,
+        "feature": "sepal_length",
+        "threshold": 6.95,
+        "specie": "unknown"
+    },
+    {
+        "id": 13.0,
+        "id_left": "-1",
+        "id_right": "-1",
+        "feature": "unknown",
+        "threshold": 0.0,
+        "specie": "versicolor"
+    },
+    {
+        "id": 14.0,
+        "id_left": "-1",
+        "id_right": "-1",
+        "feature": "unknown",
+        "threshold": 0.0,
+        "specie": "virginica"
+    },
+    {
+        "id": 15.0,
+        "id_left": "-1",
+        "id_right": "-1",
+        "feature": "unknown",
+        "threshold": 0.0,
+        "specie": "versicolor"
+    },
+    {
+        "id": 16.0,
+        "id_left": "-1",
+        "id_right": "-1",
+        "feature": "unknown",
+        "threshold": 0.0,
+        "specie": "virginica"
+    }
+]
